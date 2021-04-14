@@ -280,7 +280,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-    description: Testing test!
+    description: Testing test!!
   blog_feed_section:
     type: object
     label: Blog Feed Section
